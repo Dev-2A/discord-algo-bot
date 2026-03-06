@@ -21,6 +21,7 @@ COGS = [
     "bot.cogs.recommend",
     "bot.cogs.record",
     "bot.cogs.scheduler",
+    "bot.cog.rival",
 ]
 
 
