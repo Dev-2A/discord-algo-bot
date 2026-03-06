@@ -12,6 +12,7 @@ bot = commands.Bot(command_prefix=COMMAND_PREFIX, intents=intents)
 COGS = [
     "bot.cogs.register",
     "bot.cogs.recommend",
+    "bot.cogs.record",
 ]
 
 @bot.event
